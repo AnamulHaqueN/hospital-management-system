@@ -93,3 +93,16 @@ header{
 
 /* Services end */
 
+
+/* contact starts */
+
+#contact{
+    padding: 2% 10%;
+    background: #5eaaa8;
+}
+.form-group lebel{
+    margin-bottom: 0;
+    font-weight: bold; 
+}
+
+/* contact ends */
