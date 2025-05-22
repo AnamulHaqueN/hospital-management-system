@@ -7,6 +7,15 @@ h1, h2, h3, h4, h5, h6{
     font-family: "Roboto", sans-serif;
 }
 
+.section-tittle h3{
+    font-weight: bolder;
+    margin-bottom:0;
+}
+.hr-style{
+    border: 6px dotted black;
+    border-bottom: none;
+    width: 50px;
+}
 
 /* header start */
 
@@ -53,3 +62,34 @@ header{
     font-family: "Handlee";
     background-color: rgba(7, 101, 189, 0.2);
 }
+
+/* header ends */
+
+/* services Start */
+
+#Services{
+    padding: 5% 10%;
+    background-color: #e8ded2;
+}
+.services-col{
+    border: 1px solid #ff02c0;
+    border-radius:5px;
+    padding: 5px;
+    margin: 20px 0px;
+    transition: .4s;
+}
+.services-col:hover{
+    transform:scale(1.1);
+    box-shadow: 2px 6px 5px black;
+}
+
+.icon-style{
+    background: #3c77b7;
+    color:white;
+    padding: 15px;
+    margin: 5px 0;
+}
+
+
+/* Services end */
+
