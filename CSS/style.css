@@ -94,6 +94,27 @@ header{
 /* Services end */
 
 
+/* Patient feedback start */
+
+#feedback{
+    padding: 5%;
+    background: #5eaaa8;
+}
+.carousel-item{
+    text-align:center;
+    padding:7% 15%;
+    font-style: italic;
+    font-size: 1.2rem;
+}
+.feedback-img{
+    width:250px;
+    height:250px;
+    margin-bottom: 10px;
+}
+
+/* Patient feedback ends */
+
+
 /* contact starts */
 
 #contact{
